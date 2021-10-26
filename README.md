@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning and still in school expected to graduate on December 13th.
 - 💞️ I’m looking to collaborate on anything that will help me learn!
 - 📫 How to reach me:
-      email: devharant@gmail.com
-      phone: (843)343-5239
+      - email: devharant@gmail.com
+      - phone: (843)343-5239
 
 <!---
 devonharant/devonharant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

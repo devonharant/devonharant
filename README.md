@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devonharant
+- 👋 Hi, I’m Devon Harant @devonharant
 - 👀 I’m interested in software design and engineering as well as game development!
 - 🌱 I’m currently learning and still in school expected to graduate on December 13th.
 - 💞️ I’m looking to collaborate on anything that will help me learn!
